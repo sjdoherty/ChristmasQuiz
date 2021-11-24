@@ -2,8 +2,8 @@
 body {
 	 background-image: url(images.jpg);
 	backgroung-size:cover;
-	background-position:center ;
 	 background-repeat: no-repeat;
+	background-attachment:fixed;
 }
 
 h1{
