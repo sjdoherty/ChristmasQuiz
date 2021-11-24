@@ -1,7 +1,9 @@
-.container-fluid {
+body {
 	 background-image: url(images.jpg);
-	background-image:cover;
+	 background-size: cover;
+	 background-repeat: no-repeat;
 }
+
 
 h1{
 	font-family:helvetica; 
