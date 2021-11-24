@@ -3,6 +3,8 @@ body {
 	 background-image: url(images.jpg);
 	 background-size: cover;
 	 background-repeat: no-repeat;
+	display:flex;
+	vertical-align:middle;
 }
 h1{
 	font-family:helvetica; 
