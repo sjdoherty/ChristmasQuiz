@@ -1,8 +1,7 @@
-
 body {
 	 background-image: url(images.jpg);
-	backgroung-size:cover;
-	
+	 background-size: cover;
+	 background-repeat: no-repeat;
 }
 
 h1{
