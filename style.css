@@ -1,9 +1,11 @@
 
 body {
 	 background-image: url(images.jpg);
-	backgroung-size:cover;
+	background-position:center center;
 	 background-repeat: no-repeat;
 	background-attachment:fixed;
+	backgroung-size:cover;
+	
 }
 
 h1{
