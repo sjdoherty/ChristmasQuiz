@@ -3,7 +3,6 @@ body {
 	 background-image: url(images.jpg);
 	backgroung-size:cover;
 	background-position:center center;
-	background-attachment:fixed;
 	 background-repeat: no-repeat;
 }
 
