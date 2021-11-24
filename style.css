@@ -2,7 +2,6 @@
 body {
 	 background-image: url(images.jpg);
 	 background-repeat: no-repeat;
-	display:flex;
 }
 h1{
 	font-family:helvetica; 
