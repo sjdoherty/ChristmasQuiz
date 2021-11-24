@@ -1,6 +1,5 @@
-body {
+.container-fluid {
 	 background-image: url(images.jpg);
-	 background-size: cover;
 }
 
 h1{
