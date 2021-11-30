@@ -19,4 +19,9 @@ h2 {
 	text-align: center;
 	color:red;
 }
+#title {
+	font-weight:900;
+	font-family: Didot;
+	letter-spacing:7px;
+}
 
